@@ -5,5 +5,10 @@
 //document.body.innerHTML += 'Zaplatim dan'+ Math.floor((0.4*0.15))
 //document.body.innerHTML += 223%60;
 
-document.body.innerHTML += 'barbora' + '.' + 'lomenova'+ '@gmail.com'
+document.body.innerHTML += 'barbora' + '.' + 'lomenova'+ '@gmail.com';
 
+document.body.innerHTML += "<br>";
+
+document.body.innerHTML += Math.random() *10;
+document.body.innerHTML += "<br>"
+document.body.innerHTML += Math.ceil((Math.random() *10))
